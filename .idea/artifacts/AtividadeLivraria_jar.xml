@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AtividadeLivraria:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AtividadeLivraria_jar</output-path>
+    <root id="archive" name="AtividadeLivraria.jar">
+      <element id="module-output" name="AtividadeLivraria" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/3.31.0/checker-qual-3.31.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/postgresql/postgresql/42.6.0/postgresql-42.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
